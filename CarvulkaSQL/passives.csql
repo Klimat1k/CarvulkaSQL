@@ -1,0 +1,8 @@
+passives
+ID INTEGER, name STRING, effect STRING
+1, 'Electrospark', 'Upon killing a minion or monster, unleash a chaining electric spark at the location of their death.'
+2, 'Electroshock', 'Scoring a takedown against an enemy champion unleashes a chaining lightning shock at the location of their death.'
+3, 'Magical Opus', 'Increase your ability power by 35%.'
+4, 'Ichorshield', 'Convert the healing received from life steal in excess of maximum health into a shield.'
+5, 'Carve', 'Dealing physical damage to an enemy champion applies a stack of Carve for 6 seconds, stacking up to 5 times. Each stack inflicts 6% armor reduction, up to 30% at 5 stacks.'
+6, 'Fervor', 'Dealing physical damage grants you 20 bonus movement speed for 2 seconds.'

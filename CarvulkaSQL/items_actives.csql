@@ -1,0 +1,5 @@
+items_actives
+itemID INTEGER, activeID INTEGER
+131, 1
+190, 2
+57, 2

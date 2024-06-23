@@ -1,0 +1,153 @@
+items
+ID INTEGER, name STRING, cost INTEGER, category INTEGER
+1, 'Cull', 450, 0
+2, 'Dark Seal', 350, 0
+3, 'Doran\s Blade', 450, 0
+4, 'Doran\s Ring', 400, 0
+5, 'Doran\s Shield', 400, 0
+6, 'Gustwalker Hatchling', 450, 0
+7, 'Mosstomper Seedling', 450, 0
+8, 'Scorchclaw Pup', 450, 0
+9, 'Tear of the Goddess', 400, 0
+10, 'World Atlas', 400, 0
+11, 'Amplifying Tome', 400, 1
+12, 'B.F. Sword', 1300, 1
+13, 'Blasting Wand', 850, 1
+14, 'Cloak of Agility', 600, 1
+15, 'Cloth Armor', 300, 1
+16, 'Dagger', 300, 1
+17, 'Faerie Charm', 250, 1
+18, 'Glowing Mote', 250, 1
+19, 'Long Sword', 350, 1
+10, 'Needlessly Large Rod', 1250, 1
+21, 'Null-Magic Mantle', 450, 1
+22, 'Pickaxe', 875, 1
+23, 'Rejuvenation Bead', 300, 1
+24, 'Ruby Crystal', 400, 1
+25, 'Saphire Crystal', 350, 1
+26, 'Aether Wisp', 850, 2
+27, 'Bami\s Cinder', 900, 2
+28, 'Bandleglass Mirro', 1000, 2
+29, 'Blighting Jewel', 1100, 2
+20, 'Bramble Vest', 800, 2
+31, 'Catalyst of Aeons', 1300, 2
+32, 'Caulfield\s Warhammer', 1100, 2
+33, 'Chain Vest', 800, 2
+34, 'Crystalline Bracer', 800, 2
+35, 'Executioner\s Calling', 800, 2
+36, 'Fated Ashes', 900, 2
+37, 'Fiendish Codex', 900, 2
+38, 'Forbidden Idol', 800, 2
+39, 'Giant\s Belt', 900, 2
+41, 'Haunting Guise', 1300, 2
+42, 'Hearthbound Axe', 1300, 2
+44, 'Hextech Alternator', 1100, 2
+45, 'Kindlegem', 800, 2
+46, 'Last Whisper', 1450, 2
+47, 'Lost Chapter', 1200, 2
+48, 'Negatron Cloak', 900, 2
+49, 'Noonquiver', 1400, 2
+40, 'Oblivion Orb', 800, 2
+51, 'Phage', 1100, 2
+52, 'Quicksilver Sash', 1300, 2
+53, 'Rectrix', 900, 2
+54, 'Recurve Bow', 700, 2
+55, 'Runic Compass', 400, 2
+56, 'Scout\s Slingshot', 800, 2
+57, 'Seeker\s Armguard', 1600, 2
+58, 'Serrated Dirk', 1000, 2
+59, 'Shattered Armguard', 1600, 2
+60, 'Sheen', 900, 2
+66, 'Vampiric Scepter', 900, 2
+67, 'Verdant Barrier', 1600, 2
+68, 'Warden\s Mail', 1000, 2
+69, 'Watchful Wardstone', 1100, 2
+71, 'Zeal', 1100, 2
+72, 'Abyssal Mask', 2300, 3
+79, 'Black Cleaver', 3000, 3
+70, 'Blackfire Torch', 2800, 3
+81, 'Blade of the Ruined King', 3200, 3
+83, 'Bloodsong', 400, 3
+84, 'Bloodthirster', 3400, 3
+85, 'Bounty of Worlds', 400, 3
+86, 'Celestial Opposition', 400, 3
+89, 'Cosmic Drive', 3000, 3
+80, 'Cryptbloom', 2850, 3
+94, 'Dream Maker', 400, 3
+95, 'Echoes of Helia', 2200, 3
+96, 'Eclipse', 2800, 3
+97, 'Edge of Night', 2800, 3
+98, 'Essence Reaver', 3100, 3
+99, 'Experimental Hexplate', 3000, 3
+100, 'Fimbulwinter', 2400, 3
+101, 'Force of Nature', 2800, 3
+102, 'Frozen Heart', 2500, 3
+103, 'Guardian Angel', 3200, 3
+109, 'Hollow Radiance', 2800, 3
+110, 'Horizon Focus', 2700, 3
+112, 'Hullbreaker', 3000, 3
+113, 'Iceborn Gauntlet', 2600, 3
+114, 'Immortal Shieldbow', 3000, 3
+115, 'Imperial Mandate', 2300, 3
+116, 'Infinity Edge', 3400, 3
+117, 'Jak\Sho The Protean', 3200, 3
+118, 'Kaenic Rookern', 2900, 3
+119, 'Knight\s Vow', 2200, 3
+120, 'Kraken Slayer', 3100, 3
+121, 'Liandry\s Torment', 3000, 3
+122, 'Lich Bane', 3100, 3
+123, 'Locket of the Iron Solari', 2200, 3
+124, 'Lord Dominik\s Regards', 3000, 3
+125, 'Luden\s Companion', 2900, 3
+126, 'Malignance', 2700, 3
+127, 'Manamune', 2900, 3
+128, 'Maw of Malmortius', 3100, 3
+129, 'Mejai\s Soulstealer', 1500, 3
+130, 'Mercurial Scimitar', 3300, 3
+131, 'Mikael\s Blessing', 2300, 3
+132, 'Moonstone Renewer', 2200, 3
+133, 'Morellonomicon', 2200, 3
+134, 'Mortal Reminder', 3000, 3
+135, 'Muramana', 2900, 3
+136, 'Nashor\s Tooth', 3000, 3
+137, 'Navori Flickerblade', 2600, 3
+141, 'Phantom Dancer', 2600, 3
+143, 'Rabadon\s Deathcap', 3600, 3
+144, 'Randuin\s Omen', 2700, 3
+145, 'Rapid Firecannon', 2600, 3
+147, 'Redemption', 2300, 3
+148, 'Riftmaker', 3100, 3
+151, 'Runaan\s Hurricane', 2600, 3
+152, 'Rylai\s Crystal Scepter', 2600, 3
+153, 'Seraph\s Embrace', 2900, 3
+158, 'Solstice Sleigh', 400, 3
+161, 'Spirit Visage', 2900, 3
+162, 'Staff of Flowing Water', 2300, 3
+163, 'Statikk Shiv', 2800, 3
+164, 'Sterak\s Gage', 3200, 3
+169, 'Sunfire Aegis', 2700, 3
+173, 'Thornmail', 2700, 3
+174, 'Titanic Hydra', 3300, 3
+176, 'Trinity Force', 3333, 3
+177, 'Umbral Glaive', 2600, 3
+178, 'Unending Despair', 2800, 3
+179, 'Vigilant Wardstone', 2300, 3
+180, 'Void Staff', 3000, 3
+181, 'Voltaic Cyclosword', 2900, 3
+182, 'Warmog\s Armor', 3100, 3
+183, 'Winter\s Approach', 2400, 3
+184, 'Wit\s End', 2800, 3
+186, 'Youmuu\s Ghostblade', 2700, 3
+187, 'Yun Tal Wildarrows', 3200, 3
+188, 'Zaz\Zak\s Realmspike', 400, 3
+189, 'Zeke\s Convergence', 2200, 3
+190, 'Zhonya\s Hourglass', 3250, 3
+191, 'Boots', 300, 4
+192, 'Berserker\s Greaves', 1100, 4
+193, 'Boots of Swiftness', 900, 4
+194, 'Ionian Boots of Lucidity', 900, 4
+195, 'Mercury\s Treads', 1100, 4
+196, 'Plated Steelcaps', 1000, 4
+197, 'Sorcerer\s Shoes', 1100, 4
+198, 'Symbiotic Soles', 900, 4
+199, 'Zephyr', 3100, 4

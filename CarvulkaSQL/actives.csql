@@ -1,0 +1,4 @@
+actives
+ID INTEGER, name STRING, effect STRING
+1, 'Purify', 'Remove all crowd control debuffs and heal yourself or the target allied champion'
+2, 'Time Stop', 'Put yourself in stasis for 2.5 seconds.'

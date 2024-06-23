@@ -1,0 +1,8 @@
+items_passives
+itemID INTEGER, passiveID INTEGER
+163, 1
+163, 2
+143, 3
+84, 4
+79, 5
+79, 6
